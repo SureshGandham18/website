@@ -17,7 +17,7 @@ function App() {
           <img className="md:h-full  h-96 mx-auto w-auto" src={p1} alt="image1"/>
         </div>
         <div className="md:ml-0 mt-4 md:mt-0">
-          <p className="md:ml-0 md:mt-0 font-bold">C.R.I. PUMPS WINS THE NATIONAL ENERGY CONSERVATION AWARD 2018 for the 4th time.</p>
+          <p className="md:-ml-40 md:mt-0 font-bold">C.R.I. PUMPS WINS THE NATIONAL ENERGY CONSERVATION AWARD 2018 for the 4th time.</p>
           <br/>
           <ul className="list-disc font-medium md:-ml-32">
             <li>C.R.I.'s energy efficient products are well recognized by various Government Institutions, as trustworthy products for various projects across the globe to save energy.</li>
