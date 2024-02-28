@@ -24,14 +24,14 @@ function App() {
             <li>C.R.I. is the highest contributor in the country for the projects of EESL (Energy Efficiency Services Limited) to replace the old inefficient pumps with 5 Star rated energy efficient smart pumps with IoT enabled control panel.</li>
           </ul>
           <br/>
-          <img className="md:-ml-36 md:max-w-3xl max-w-96" src={p2} alt="image2"/>
+          <img className="md:-ml-36 md:max-w-3xl max-w-80 items-center" src={p2} alt="image2"/>
           <p className="text-justify font-medium md:-ml-40">Government of India has awarded the<span className="font-bold"> "National Energy Conservation Award 2018".</span> Mr. G. Selvaraj, Joint Managing Director of C.R.I. Group received the award from Smt. Sumitra Mahajan, Speaker of Lok Sabha & Shri. Raj Kumar Singh, Honorable Minister of State.</p>
         </div>
       </div>
 
       <p className="text-center my-4 font-medium">INSTALLED OVER 10 LAKHS STAR RATED PUMPSETS ACROSS THE COUNTRY RESULTING IN A CUMULATIVE SAVING OF MORE THAN 9,000 MILLION UNITS OF POWER FOR THE NATION. </p>
 
-      <img className="md:max-w-4xl max-w-96 my-4 mx-auto" src={p3} alt="image3"/>
+      <img className="md:max-w-4xl max-w-80 my-4 mx-auto" src={p3} alt="image3"/>
 
       <p className="text-center font-medium">Valves - Pumps - Pipes - IoT Drives & Controllers - Wires & Cables - Solar Systems - Motors</p>
       <hr className="h-px my-4 bg-gray-200 mx-4 border-0 dark:bg-red-700"/>
